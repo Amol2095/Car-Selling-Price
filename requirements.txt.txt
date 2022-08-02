@@ -1,0 +1,13 @@
+1.  gunicorn
+2.  itsdangerous
+3.  Jinja2
+4.  MarkupSafe
+5.  Werkzeug
+6.  numpy
+7.  scipy
+8.  scikit-learn
+9.  matplotlib
+10. pandas
+11. flasgger
+12. seaborn
+13. streamlit
